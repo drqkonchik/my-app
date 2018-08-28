@@ -25,8 +25,11 @@ AdapterView.OnItemClickListener itemClickListener=new AdapterView.OnItemClickLis
         if(i==0){
             Intent intent =new Intent(MainActivity.this,Otsosuki.class);
 startActivity(intent);
-        }
+       
+	
+	}
     }
+	
 };
 
 	
